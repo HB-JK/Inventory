@@ -1,4 +1,4 @@
-# WEB Inventory PHP=Native
+# WEB Inventory PHP-Native
 feature:
 > 1. List data inventory  
 > 2. Transaction  
